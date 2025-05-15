@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="hourly_forecast">Прогноз на 24 часа</string>
+    <string name="daily_forecast">Прогноз на 7 дней</string>
+    <string name="location_permission_required">Для работы приложения требуется доступ к местоположению</string>
+    <string name="weather_update_failed">Не удалось обновить данные о погоде</string>
+</resources>
